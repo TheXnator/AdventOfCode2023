@@ -12,3 +12,4 @@ C:\Users\trexn\OneDrive\Desktop\Files\Zac\Advent of Code\AdventOfCode2023\Advent
 C:\Users\trexn\OneDrive\Desktop\Files\Zac\Advent of Code\AdventOfCode2023\AdventOfCode2023\obj\Debug\net8.0\AdventOfCode2023.pdb
 C:\Users\trexn\OneDrive\Desktop\Files\Zac\Advent of Code\AdventOfCode2023\AdventOfCode2023\obj\Debug\net8.0\AdventOfCode2023.genruntimeconfig.cache
 C:\Users\trexn\OneDrive\Desktop\Files\Zac\Advent of Code\AdventOfCode2023\AdventOfCode2023\obj\Debug\net8.0\ref\AdventOfCode2023.dll
+C:\Users\trexn\OneDrive\Desktop\Files\Zac\Advent of Code\AdventOfCode2023\AdventOfCode2023\obj\Debug\net8.0\AdventOfCode2023.sourcelink.json
